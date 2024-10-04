@@ -14,9 +14,6 @@
 
   <h3 align="center">ProteinBind</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@albertmends" target="_blank"><b>Your YouTube Channel</b></a>. Join the community!
-    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
